@@ -7,8 +7,10 @@ A full-stack project by **Rishabh Puthran (22BTRDC065)** demonstrating frontend 
 ---
 
 ## Project Structure
-│── backend/   # Express.js backend (API, routes, DB logic)
-│── frontend/  # Client-side app (HTML, CSS, JS)
+│── backend/ 
+
+│── frontend/
+
 │── README.md
 
 - **Frontend**: Built using **HTML, CSS, and JavaScript**  

@@ -13,7 +13,7 @@ A full-stack project by **Rishabh Puthran (22BTRDC065)** demonstrating frontend 
 
 │── README.md
 
-- **Frontend**: Built using **HTML, CSS, and JavaScript**  
+- **Frontend**: Built using **React**  
 - **Backend**: Powered by **Node.js and Express.js**  
 - **Database**: (Add here if you connected MongoDB/MySQL/etc.)  
 

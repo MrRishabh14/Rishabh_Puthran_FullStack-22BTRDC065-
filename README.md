@@ -31,9 +31,9 @@ A full-stack project by **Rishabh Puthran (22BTRDC065)** demonstrating frontend 
 
 ##  Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript  
+- **Frontend**: React  
 - **Backend**: Node.js, Express.js  
-- **Database**: [Add DB here if used]  
+- **Database**: mongodb 
 
 ---
 
